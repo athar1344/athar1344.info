@@ -6,6 +6,9 @@
 📚 Learning Data Analysis, Machine Learning, and programming with R and Python.  
 🎯 Dreaming of becoming a Tech Tutor and launching my own coaching platform. 🌟
 
+![Visitors](https://komarev.com/ghpvc/?username=athar1344&label=PROFILE%20VIEWS&color=darkblue)
+
+
 ---
 
 ## 👨‍💻 TechKit & Learning Tools
