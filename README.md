@@ -13,12 +13,12 @@
 
 ## 👨‍💻 TechKit & Learning Tools
 
-**Languages:**  C, C++, Java, Python (NumPy, Pandas, Scikit-Learn)
-**Databases:**  MySQL, SQL
-**Web Stack:**  HTML, JavaScript, Bootstrap
-**Core Subjects:**  OOPs, DBMS, DSA
-**Visualization Tools:**  Matplotlib, Scikit-learn
-**Platforms:**  GitHub
+- **Languages:**  C, C++, Java, Python (NumPy, Pandas, Scikit-Learn)
+- **Databases:**  MySQL, SQL
+- **Web Stack:**  HTML, JavaScript, Bootstrap
+- **Core Subjects:**  OOPs, DBMS, DSA
+- **Visualization Tools:**  Matplotlib, Scikit-learn
+- **Platforms:**  GitHub
 
 ---
 
