@@ -8,18 +8,13 @@
 
 ---
 
-## 👨‍💻 Technologies I'm Learning & Working With
+## 👨‍💻 TechKit & Learning Tools
 
 **Languages:**  C, C++, Java, Python (NumPy, Pandas, Scikit-Learn)
-
 **Databases:**  MySQL, SQL
-
 **Web Stack:**  HTML, JavaScript, Bootstrap
-
 **Core Subjects:**  OOPs, DBMS, DSA
-
 **Visualization Tools:**  Matplotlib, Scikit-learn
-
 **Platforms:**  GitHub
 
 ---
@@ -37,10 +32,6 @@
 - 🌐 **Real-Time Voice Translation Tool** *(Prototype Stage)*  
   Creating a speech-to-speech translation system that converts live audio into another language while maintaining voice tone and flow.
   
-
----
-
-
 
 ---
 
