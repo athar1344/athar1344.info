@@ -32,8 +32,9 @@
 
 ## 🌱 Currently Working On:
 
-- 🌐 **Real-Time Voice Translation Tool** *(Prototype Stage)*  
-  Creating a speech-to-speech translation system that converts live audio into another language while maintaining voice tone and flow.
+- 🌐 **Real-Time Camouflaged Enemy Detection System** *(Prototype Stage)*  
+  An AI-powered surveillance model leveraging YOLO and explainable AI (XAI) to detect camouflaged or partially hidden humans in open environments. The system provides real-time threat detection along with
+  interpretable insights to enhance trust and situational awareness.
   
 
 ---
